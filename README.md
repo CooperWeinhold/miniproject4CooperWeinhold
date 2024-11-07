@@ -8,7 +8,7 @@ This program creates a webpage with the intent of allowing users to input
 information about themselves to achieve their physical fitness goals. After 
 taking input from the user the site will display what their macro goals should 
 be as well as having a page that gives example exercises to do to help achieve 
-the goals. 
+the goals..
 
 ### Dependencies
 ```
